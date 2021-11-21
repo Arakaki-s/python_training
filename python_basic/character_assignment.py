@@ -13,6 +13,8 @@ print('My name is {0} {1}. Wtashi ha {1} {0}'.format('Taro', 'Tanaka'))
 
 print("##################")
 
+
+
 a = 'a'
 print(f'a is {a}')
  
