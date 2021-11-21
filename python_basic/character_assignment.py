@@ -13,8 +13,6 @@ print('My name is {0} {1}. Wtashi ha {1} {0}'.format('Taro', 'Tanaka'))
 
 print("##################")
 
-
-
 a = 'a'
 print(f'a is {a}')
  
@@ -25,3 +23,7 @@ print(f'a is {z}, {y}, {x}')
 name = 'Taro'
 family = 'Tanaka'
 print(f'My name is {name} {family}. Watashi ha {family} {name}')
+
+
+
+# python基礎学習(Gitも)
